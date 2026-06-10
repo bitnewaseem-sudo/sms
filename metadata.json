@@ -1,0 +1,6 @@
+{
+  "name": "School Management System",
+  "description": "An enterprise-ready platform for educational institutions managing user roles, admissions, student records, timetables, attendance, exams, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
